@@ -9,7 +9,7 @@
   Olá👋, Meu nome é João Pedro, sou estudante de Análise e Desenvolvimento de Dados!
   </p>
 <p>
-  🤖Desde novo, sou fascinado por tecnologia, e com essa admiração surgiu-se a paixão pela área, desde então decidi fazer parte de sua criação e inovação!🤖
+  🤖Desde novo, sou fascinado por tecnologia, e com essa admiração surgiu-se a paixão pela área, desde então decidi fazer parte de seu desenvolvimento e inovação!🤖
 </p>
 
 ##
