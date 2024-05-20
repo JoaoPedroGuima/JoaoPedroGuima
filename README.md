@@ -1,13 +1,10 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block"> Olá👋, Meu nome é João Pedro, sou estudante de Análise e Desenvolvimento de Dados!</h1></summary>
+    <summary><h1 style="display: inline-block"> hello world👋, Meu nome é João Pedro, sou estudante de Análise e Desenvolvimento de Dados😁!</h1></summary>
 </div>
 
 <!-- Presentation -->
-<p>
-  Olá👋, Meu nome é João Pedro, sou estudante de Análise e Desenvolvimento de Dados!
-  </p>
 <p>
   🤖Desde novo, sou fascinado por tecnologia, e com essa admiração surgiu-se a paixão pela área, desde então decidi fazer parte de seu desenvolvimento e inovação!🤖
 </p>
