@@ -4,6 +4,9 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
+# ![snake gif](https://github.com/JoaoPedroGuima/JoaoPedroGuima/blob/output/github-contribution-grid-snake.gif)
+
+
 <!-- Presentation -->
 <p>
   Olá👋, Meu nome é João Pedro, sou estudante de Análise e Desenvolvimento de Dados!
