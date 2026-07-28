@@ -18,9 +18,9 @@
 
 ## 👨‍💻 About me
 
-I'm the creator and lead developer of **UPMAP**, a multi-tenant SaaS for time & productivity management used daily in production at **UP380** — where I own the whole lifecycle: architecture, backend, frontend, database, deploy and product decisions (also acting as PO and reviewing the team's PRs).
+I'm the lead — and first — developer of **UPMAP**, a multi-tenant SaaS for time & productivity management used daily in production at **UP380**, where I own the whole lifecycle: architecture, backend, frontend, database and deploy (also acting as PO and reviewing the team's PRs).
 
-- 🚀 Took a product **from zero to production** — and kept it growing with a team of 4+ devs
+- 🚀 Took a product **from zero to production** — and kept it growing with a team of 4 devs
 - 🏗️ Multi-tenant architecture, versioned SQL migrations, automated tests (unit / integration / contract)
 - 🤖 Heavy use of **Python + Selenium automations** and API integrations to kill manual work
 - 🔐 Care about the boring-but-critical stuff: JWT, RBAC, audit trails, LGPD compliance
