@@ -23,8 +23,6 @@ I'm the lead — and first — developer of **UPMAP**, a multi-tenant SaaS for t
 - 🚀 Took a product **from zero to production** — and kept it growing with a team of 4 devs
 - 🏗️ Multi-tenant architecture, versioned SQL migrations, automated tests (unit / integration / contract)
 - 🤖 Heavy use of **Python + Selenium automations** and API integrations to kill manual work
-- 🔐 Care about the boring-but-critical stuff: JWT, RBAC, audit trails, LGPD compliance
-- 📚 Self-taught since 14 — started with game design, ended up shipping SaaS
 - 🎓 Studying Systems Analysis and Development (ADS) @ IPOG
 
 ## 🛠️ Tech stack
