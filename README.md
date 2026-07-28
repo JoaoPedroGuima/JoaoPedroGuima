@@ -41,9 +41,7 @@ I'm the creator and lead developer of **UPMAP**, a multi-tenant SaaS for time & 
 
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
 
 **Frontend**
@@ -71,7 +69,7 @@ I'm the creator and lead developer of **UPMAP**, a multi-tenant SaaS for time & 
 
 | Project | What it is | Stack |
 |---|---|---|
-| **UPMAP / UpGestão Inteligente** | Multi-tenant SaaS for time & productivity management, in production | TypeScript · Bun · Hono · Zod · PostgreSQL/Supabase · Docker · Nginx |
+| **UPMAP / UpGestão Inteligente** | Multi-tenant SaaS for time & productivity management, in production | TypeScript · Bun · PostgreSQL/Supabase · Docker · Nginx |
 | **Validador de Chapa (LGPD)** | Compliance SaaS with a YAML-configurable rule engine (Lei 9.504/97 + LGPD) | Python · FastAPI · SQLAlchemy · React 19 · JWT · RBAC |
 | [**Mesa de Som (JOTA-MESA)**](https://github.com/JoaoPedroGuima/mesa-de-som) | Desktop soundboard with global shortcuts, system-audio recording and waveform trim editor | Electron · Web Audio API |
 
